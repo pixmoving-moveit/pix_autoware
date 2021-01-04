@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="pix_autoware" name="pix_autoware_bridge" type="autoware_bridge.py"> </node>
+</launch>
